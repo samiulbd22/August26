@@ -117,7 +117,7 @@ const members = {
         // running month{"04/08/25-Cash":4550}
         stay_cost       :2300,
         garage_cost     :0,
-        running_payable :0,//2514
+        running_payable :2936,//2514
         running_paid    :5000,
         running_meal    :3,
         // method calling
